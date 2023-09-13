@@ -1,502 +1,502 @@
 [
   {
     "bookId": 1,
-    "genre": "Fiction",
-    "price": 12.01
+    "genre": "Romance",
+    "price": 5.54
   },
   {
     "bookId": 2,
-    "genre": "Fantasy",
-    "price": 20.06
+    "genre": "Fiction",
+    "price": 17.65
   },
   {
     "bookId": 3,
-    "genre": "Mystery",
-    "price": 20.2
+    "genre": "Science Fiction",
+    "price": 15.19
   },
   {
     "bookId": 4,
-    "genre": "Romance",
-    "price": 24.57
+    "genre": "Thriller",
+    "price": 22.97
   },
   {
     "bookId": 5,
-    "genre": "Fantasy",
-    "price": 19.36
+    "genre": "Romance",
+    "price": 18.7
   },
   {
     "bookId": 6,
-    "genre": "Fiction",
-    "price": 6.25
+    "genre": "Mystery",
+    "price": 10.03
   },
   {
     "bookId": 7,
-    "genre": "Romance",
-    "price": 5.27
+    "genre": "Thriller",
+    "price": 19.69
   },
   {
     "bookId": 8,
-    "genre": "Fiction",
-    "price": 13.03
+    "genre": "Fantasy",
+    "price": 17.37
   },
   {
     "bookId": 9,
-    "genre": "Romance",
-    "price": 14.37
+    "genre": "Fantasy",
+    "price": 7.17
   },
   {
     "bookId": 10,
-    "genre": "Fantasy",
-    "price": 25.34
+    "genre": "Science Fiction",
+    "price": 18.14
   },
   {
     "bookId": 11,
-    "genre": "Fiction",
-    "price": 21.37
+    "genre": "Thriller",
+    "price": 27.47
   },
   {
     "bookId": 12,
-    "genre": "Thriller",
-    "price": 19.58
+    "genre": "Romance",
+    "price": 11.21
   },
   {
     "bookId": 13,
-    "genre": "Science Fiction",
-    "price": 21.99
+    "genre": "Fiction",
+    "price": 8.18
   },
   {
     "bookId": 14,
-    "genre": "Mystery",
-    "price": 23.28
+    "genre": "Fantasy",
+    "price": 24.17
   },
   {
     "bookId": 15,
-    "genre": "Science Fiction",
-    "price": 28.45
+    "genre": "Mystery",
+    "price": 12.88
   },
   {
     "bookId": 16,
     "genre": "Science Fiction",
-    "price": 10.92
+    "price": 21.77
   },
   {
     "bookId": 17,
-    "genre": "Thriller",
-    "price": 12.78
+    "genre": "Science Fiction",
+    "price": 5.47
   },
   {
     "bookId": 18,
-    "genre": "Fantasy",
-    "price": 23.32
+    "genre": "Thriller",
+    "price": 23.44
   },
   {
     "bookId": 19,
-    "genre": "Mystery",
-    "price": 11.87
+    "genre": "Science Fiction",
+    "price": 11.61
   },
   {
     "bookId": 20,
-    "genre": "Mystery",
-    "price": 23.22
+    "genre": "Fiction",
+    "price": 21.24
   },
   {
     "bookId": 21,
-    "genre": "Mystery",
-    "price": 28.01
+    "genre": "Science Fiction",
+    "price": 9.85
   },
   {
     "bookId": 22,
-    "genre": "Mystery",
-    "price": 28.33
+    "genre": "Fiction",
+    "price": 22.82
   },
   {
     "bookId": 23,
     "genre": "Fantasy",
-    "price": 9.93
+    "price": 9.76
   },
   {
     "bookId": 24,
-    "genre": "Fantasy",
-    "price": 28.81
+    "genre": "Mystery",
+    "price": 27.45
   },
   {
     "bookId": 25,
-    "genre": "Romance",
-    "price": 7.76
+    "genre": "Fantasy",
+    "price": 8.68
   },
   {
     "bookId": 26,
-    "genre": "Fantasy",
-    "price": 26.17
+    "genre": "Science Fiction",
+    "price": 18.82
   },
   {
     "bookId": 27,
-    "genre": "Science Fiction",
-    "price": 15.57
+    "genre": "Thriller",
+    "price": 29.68
   },
   {
     "bookId": 28,
     "genre": "Fiction",
-    "price": 12.25
+    "price": 22.55
   },
   {
     "bookId": 29,
-    "genre": "Fantasy",
-    "price": 8.22
+    "genre": "Science Fiction",
+    "price": 28.47
   },
   {
     "bookId": 30,
-    "genre": "Science Fiction",
-    "price": 7.57
+    "genre": "Fiction",
+    "price": 27.87
   },
   {
     "bookId": 31,
-    "genre": "Fiction",
-    "price": 16.48
+    "genre": "Thriller",
+    "price": 15.57
   },
   {
     "bookId": 32,
-    "genre": "Thriller",
-    "price": 25.35
+    "genre": "Science Fiction",
+    "price": 25.56
   },
   {
     "bookId": 33,
-    "genre": "Fantasy",
-    "price": 20.05
+    "genre": "Romance",
+    "price": 29.45
   },
   {
     "bookId": 34,
-    "genre": "Fantasy",
-    "price": 29.28
+    "genre": "Science Fiction",
+    "price": 29.66
   },
   {
     "bookId": 35,
-    "genre": "Fantasy",
-    "price": 20.2
+    "genre": "Romance",
+    "price": 11.29
   },
   {
     "bookId": 36,
-    "genre": "Romance",
-    "price": 28.9
+    "genre": "Thriller",
+    "price": 7.31
   },
   {
     "bookId": 37,
     "genre": "Science Fiction",
-    "price": 8.16
+    "price": 8.64
   },
   {
     "bookId": 38,
-    "genre": "Science Fiction",
-    "price": 14.9
+    "genre": "Fantasy",
+    "price": 15.72
   },
   {
     "bookId": 39,
-    "genre": "Romance",
-    "price": 23.12
+    "genre": "Thriller",
+    "price": 12.51
   },
   {
     "bookId": 40,
-    "genre": "Romance",
-    "price": 8.9
+    "genre": "Fantasy",
+    "price": 29.06
   },
   {
     "bookId": 41,
-    "genre": "Mystery",
-    "price": 24.17
+    "genre": "Fiction",
+    "price": 17.01
   },
   {
     "bookId": 42,
-    "genre": "Fiction",
-    "price": 7.39
+    "genre": "Thriller",
+    "price": 20.76
   },
   {
     "bookId": 43,
-    "genre": "Fiction",
-    "price": 16.26
+    "genre": "Romance",
+    "price": 25.35
   },
   {
     "bookId": 44,
-    "genre": "Thriller",
-    "price": 21.36
+    "genre": "Fantasy",
+    "price": 18.62
   },
   {
     "bookId": 45,
-    "genre": "Fantasy",
-    "price": 21.69
+    "genre": "Fiction",
+    "price": 28.22
   },
   {
     "bookId": 46,
-    "genre": "Fiction",
-    "price": 5.57
+    "genre": "Romance",
+    "price": 9.75
   },
   {
     "bookId": 47,
     "genre": "Fantasy",
-    "price": 10.25
+    "price": 10.81
   },
   {
     "bookId": 48,
-    "genre": "Thriller",
-    "price": 14.19
+    "genre": "Science Fiction",
+    "price": 7.43
   },
   {
     "bookId": 49,
-    "genre": "Fantasy",
-    "price": 21
+    "genre": "Romance",
+    "price": 29.43
   },
   {
     "bookId": 50,
-    "genre": "Science Fiction",
-    "price": 17.47
+    "genre": "Thriller",
+    "price": 25.7
   },
   {
     "bookId": 51,
-    "genre": "Fiction",
-    "price": 7.44
+    "genre": "Science Fiction",
+    "price": 13.84
   },
   {
     "bookId": 52,
-    "genre": "Fiction",
-    "price": 12.48
+    "genre": "Fantasy",
+    "price": 23.49
   },
   {
     "bookId": 53,
-    "genre": "Thriller",
-    "price": 6.84
+    "genre": "Fantasy",
+    "price": 29.56
   },
   {
     "bookId": 54,
-    "genre": "Romance",
-    "price": 27.18
+    "genre": "Fantasy",
+    "price": 14.01
   },
   {
     "bookId": 55,
-    "genre": "Mystery",
-    "price": 12.99
+    "genre": "Thriller",
+    "price": 19.18
   },
   {
     "bookId": 56,
     "genre": "Science Fiction",
-    "price": 24.87
+    "price": 11.72
   },
   {
     "bookId": 57,
-    "genre": "Thriller",
-    "price": 11.6
+    "genre": "Fiction",
+    "price": 7.93
   },
   {
     "bookId": 58,
-    "genre": "Fiction",
-    "price": 14.8
+    "genre": "Romance",
+    "price": 19.32
   },
   {
     "bookId": 59,
-    "genre": "Romance",
-    "price": 20.26
+    "genre": "Mystery",
+    "price": 12.95
   },
   {
     "bookId": 60,
-    "genre": "Mystery",
-    "price": 9.85
+    "genre": "Thriller",
+    "price": 17.21
   },
   {
     "bookId": 61,
-    "genre": "Fiction",
-    "price": 21.79
+    "genre": "Science Fiction",
+    "price": 22.41
   },
   {
     "bookId": 62,
-    "genre": "Romance",
-    "price": 15.34
+    "genre": "Thriller",
+    "price": 6.92
   },
   {
     "bookId": 63,
-    "genre": "Fiction",
-    "price": 13.09
+    "genre": "Fantasy",
+    "price": 10.29
   },
   {
     "bookId": 64,
     "genre": "Fantasy",
-    "price": 22.78
+    "price": 19.72
   },
   {
     "bookId": 65,
-    "genre": "Fantasy",
-    "price": 12.02
+    "genre": "Mystery",
+    "price": 23.33
   },
   {
     "bookId": 66,
     "genre": "Fiction",
-    "price": 17.71
+    "price": 24.83
   },
   {
     "bookId": 67,
-    "genre": "Fantasy",
-    "price": 23.47
+    "genre": "Romance",
+    "price": 17.34
   },
   {
     "bookId": 68,
     "genre": "Romance",
-    "price": 20.31
+    "price": 8.6
   },
   {
     "bookId": 69,
-    "genre": "Science Fiction",
-    "price": 21.42
+    "genre": "Romance",
+    "price": 29.68
   },
   {
     "bookId": 70,
-    "genre": "Thriller",
-    "price": 12.91
+    "genre": "Romance",
+    "price": 24.34
   },
   {
     "bookId": 71,
-    "genre": "Fantasy",
-    "price": 22.84
+    "genre": "Mystery",
+    "price": 10.55
   },
   {
     "bookId": 72,
-    "genre": "Fantasy",
-    "price": 16.43
+    "genre": "Mystery",
+    "price": 18.42
   },
   {
     "bookId": 73,
-    "genre": "Romance",
-    "price": 19.22
+    "genre": "Fantasy",
+    "price": 14.91
   },
   {
     "bookId": 74,
     "genre": "Science Fiction",
-    "price": 22.56
+    "price": 8.92
   },
   {
     "bookId": 75,
-    "genre": "Mystery",
-    "price": 19.43
+    "genre": "Romance",
+    "price": 10.21
   },
   {
     "bookId": 76,
     "genre": "Romance",
-    "price": 26.25
+    "price": 25.01
   },
   {
     "bookId": 77,
-    "genre": "Thriller",
-    "price": 15.78
+    "genre": "Fantasy",
+    "price": 12.61
   },
   {
     "bookId": 78,
-    "genre": "Fiction",
-    "price": 19.72
+    "genre": "Romance",
+    "price": 23.36
   },
   {
     "bookId": 79,
-    "genre": "Science Fiction",
-    "price": 26.79
+    "genre": "Thriller",
+    "price": 13.62
   },
   {
     "bookId": 80,
-    "genre": "Romance",
-    "price": 8.93
+    "genre": "Mystery",
+    "price": 27.32
   },
   {
     "bookId": 81,
-    "genre": "Science Fiction",
-    "price": 24.76
+    "genre": "Fantasy",
+    "price": 24.08
   },
   {
     "bookId": 82,
     "genre": "Romance",
-    "price": 25.22
+    "price": 9.36
   },
   {
     "bookId": 83,
-    "genre": "Romance",
-    "price": 26.13
+    "genre": "Fantasy",
+    "price": 18.72
   },
   {
     "bookId": 84,
-    "genre": "Science Fiction",
-    "price": 20.3
+    "genre": "Romance",
+    "price": 15.83
   },
   {
     "bookId": 85,
-    "genre": "Mystery",
-    "price": 5.7
+    "genre": "Romance",
+    "price": 15.34
   },
   {
     "bookId": 86,
-    "genre": "Science Fiction",
-    "price": 24.77
+    "genre": "Thriller",
+    "price": 5.87
   },
   {
     "bookId": 87,
-    "genre": "Fantasy",
-    "price": 29.05
+    "genre": "Thriller",
+    "price": 12.32
   },
   {
     "bookId": 88,
-    "genre": "Fantasy",
-    "price": 26.4
+    "genre": "Fiction",
+    "price": 15.49
   },
   {
     "bookId": 89,
     "genre": "Science Fiction",
-    "price": 9.05
+    "price": 18.74
   },
   {
     "bookId": 90,
     "genre": "Mystery",
-    "price": 12.58
+    "price": 27.68
   },
   {
     "bookId": 91,
-    "genre": "Science Fiction",
-    "price": 18.96
+    "genre": "Fiction",
+    "price": 21.32
   },
   {
     "bookId": 92,
-    "genre": "Thriller",
-    "price": 24.07
+    "genre": "Romance",
+    "price": 7.8
   },
   {
     "bookId": 93,
-    "genre": "Science Fiction",
-    "price": 26.47
+    "genre": "Fantasy",
+    "price": 24.52
   },
   {
     "bookId": 94,
-    "genre": "Mystery",
-    "price": 7.63
+    "genre": "Fantasy",
+    "price": 26.18
   },
   {
     "bookId": 95,
     "genre": "Fantasy",
-    "price": 22.28
+    "price": 16.3
   },
   {
     "bookId": 96,
-    "genre": "Thriller",
-    "price": 25.73
+    "genre": "Romance",
+    "price": 13.61
   },
   {
     "bookId": 97,
-    "genre": "Mystery",
-    "price": 23.16
+    "genre": "Thriller",
+    "price": 11.15
   },
   {
     "bookId": 98,
-    "genre": "Thriller",
-    "price": 19.97
+    "genre": "Mystery",
+    "price": 27
   },
   {
     "bookId": 99,
-    "genre": "Fantasy",
-    "price": 12.5
+    "genre": "Fiction",
+    "price": 20.65
   },
   {
     "bookId": 100,
-    "genre": "Mystery",
-    "price": 21.92
+    "genre": "Fiction",
+    "price": 25.52
   }
 ]
