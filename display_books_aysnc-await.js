@@ -1,15 +1,38 @@
-let BookData = new Array();
-fetchBookData();
+let BookData = [];
 
-async function fetchBookData() {
+const insertDataInHtml = (data) => {
+  data.sort((a, b) => a.price - b.price);
+  const tableBody = document.getElementById('table-all-books');
+  tableBody.innerHTML = '';
+  const mainRow = document.createElement('tr');
+  mainRow.innerHTML = `
+    <th>BookId</th>
+    <th>Genre</th>
+    <th>Price</th>
+    <th>Examine</th>
+   `;
+  tableBody.appendChild(mainRow);
+  data.forEach((book) => {
+    const row = document.createElement('tr');
+    row.innerHTML = `
+       <th>${book.bookId}</th>
+       <th>${book.genre}</th>
+       <th>${book.price}</th>
+      `;
+    tableBody.appendChild(row);
+  });
+};
+
+const fetchBookData = async () => {
   try {
-    const response = await fetch("random_books.json");
+    const response = await fetch('random_books.json');
     BookData = await response.json();
     insertDataInHtml(BookData);
   } catch (error) {
-    console.log("Error in Fetching data", error);
+    console.log('Error in Fetching data', error);
   }
-}
+};
+fetchBookData();
 
 const searchByIdButton = (evt) => {
   evt.preventDefault();
@@ -39,29 +62,6 @@ const searchByPriceButton = (evt) => {
     (book) => book.price.toString() === priceValue,
   );
   insertDataInHtml(matchingBooks);
-}
-
-const insertDataInHtml = (data) => {
-  data.sort((a, b) => a.price - b.price);
-  const tableBody = document.getElementById("table-all-books");
-  tableBody.innerHTML = "";
-  let row = document.createElement("tr");
-  row.innerHTML = `
-    <th>BookId</th>
-    <th>Genre</th>
-    <th>Price</th>
-    <th>Examine</th>
-   `;
-  tableBody.appendChild(row);
-  data.forEach((book) => {
-    let row = document.createElement("tr");
-    row.innerHTML = `
-       <th>${book.bookId}</th>
-       <th>${book.genre}</th>
-       <th>${book.price}</th>
-      `;
-    tableBody.appendChild(row);
-  });
 };
 
 document.getElementById('btn-search-id').addEventListener('click', searchByIdButton);
