@@ -2,29 +2,31 @@ const fs = require('fs');
 const faker = require('faker');
 
 class Book {
-  generateRandomBook(bookId) {
-    const genre = faker.random.arrayElement([
+  constructor() {
+    this.bookList = [];
+    this.genres = [
       'Fiction',
       'Mystery',
       'Science Fiction',
       'Fantasy',
       'Romance',
       'Thriller',
-    ]);
-    const price = faker.finance.amount(5, 30, 2);
-    this.bookId = bookId;
-    this.genre = genre;
-    this.price = price;
+    ];
+  }
+
+  generateRandomBook() {
+    for (let index = 1; index <= 100; index += 1) {
+      this.bookList.push({
+        bookId: index,
+        price: Math.floor(Math.random()*1000),
+        genre: this.genres[Math.floor(Math.random() * this.genres.length)],
+      });
+    }
   }
 }
 
-const bookList = [];
+const book = new Book();
+book.generateRandomBook();
 
-for (let id = 1; id <= 100; id += 1) {
-  const book = new Book();
-  book.generateRandomBook(id);
-  bookList.push(book);
-}
-
-const jsonContent = JSON.stringify(bookList, null, 2);
+const jsonContent = JSON.stringify(book.bookList, null, 2);
 fs.writeFileSync('random_books.json', jsonContent);

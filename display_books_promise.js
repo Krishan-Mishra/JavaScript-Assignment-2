@@ -1,4 +1,4 @@
-let BookData = [];
+let bookData = [];
 
 const insertDataInHtml = (data) => {
   data.sort((a, b) => a.price - b.price);
@@ -31,8 +31,8 @@ fetch('random_books.json')
   })
   .catch((error) => console.log(error));
 
-const searchByIdButton = (event) => {
-  event.preventDefault();
+const searchByIdButton = (evt) => {
+  evt.preventDefault();
   const idValue = document.getElementById('input-search-id').value;
   if (!idValue.trim().length) return;
   const matchingBooks = BookData.filter(
@@ -41,8 +41,8 @@ const searchByIdButton = (event) => {
   insertDataInHtml(matchingBooks);
 };
 
-const searchByGenreButton = (event) => {
-  event.preventDefault();
+const searchByGenreButton = (evt) => {
+  evt.preventDefault();
   const genreValue = document.getElementById('input-search-genre').value;
   if (!genreValue.trim().length) return;
   const matchingBooks = BookData.filter(
@@ -51,8 +51,8 @@ const searchByGenreButton = (event) => {
   insertDataInHtml(matchingBooks);
 };
 
-const searchByPriceButton = (event) => {
-  event.preventDefault();
+const searchByPriceButton = (evt) => {
+  evt.preventDefault();
   const priceValue = document.getElementById('input-search-price').value;
   if (!priceValue.trim().length) return;
   const matchingBooks = BookData.filter(
